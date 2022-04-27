@@ -1,0 +1,53 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box
+
+
+
+}
+
+
+div{
+
+width: 300px;
+height: 300px;
+margin: 40px;
+float: left;
+
+
+
+}
+
+
+.div1{
+
+    background-color: aqua;
+
+
+}
+
+
+.div2{
+
+    background-color:blue;
+
+
+}
+
+
+.div3{
+
+    background-color: goldenrod;
+
+
+
+}
+
+.div4{
+
+background-color: seagreen;
+
+
+
+}

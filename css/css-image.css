@@ -1,0 +1,31 @@
+body{
+
+background-color: rgb(red, rgb(48, 138, 130), blue);
+
+}
+
+
+div{
+    
+    height: 670px;
+    width: 100%;
+
+
+
+}
+
+.div1{
+    
+height: 500px;
+width: 450px;
+font-size: 100px;
+color: beige;
+background-image: url(../Image/Spiderman.jpg);
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+background-repeat: repeat-x;
+border: 5px solid #73AD21
+
+
+}

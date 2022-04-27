@@ -1,0 +1,27 @@
+ol li.decimal-zero{
+list-style-type: decimal-leading-zero;
+}
+
+
+ol li.lower-alpha{
+list-style-type: lower-alpha;
+}
+
+
+
+ol li.upper-alpha{
+
+list-style-type: upper-alpha;
+
+
+}
+
+ol li.lower-roman{
+list-style-type: lower-roman;
+}
+
+ol li.upper-roman{
+
+    list-style-type: upper-roman;
+}
+

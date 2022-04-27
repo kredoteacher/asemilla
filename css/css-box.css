@@ -1,0 +1,53 @@
+*{
+
+
+    margin: 0;
+    padding:  0;
+}
+
+
+
+
+div{ 
+
+
+    height: 200px;
+
+    width:  200px;
+}
+
+p{  
+
+color: white;
+margin: 50;
+text-align:  left;
+
+}
+
+.div1{
+
+background-color: teal;
+margin: 50px;
+
+}
+
+.div2{
+    
+    padding: 0px 0px 0px 0px;
+    background-color: goldenrod;
+    color: white
+
+}
+
+.div4{
+
+margin-top: 20px;
+background-color: gray;
+overflow: scroll;
+
+}
+
+.div4 .overflow-paragraph{
+
+    color: black
+}

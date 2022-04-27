@@ -1,0 +1,25 @@
+table, th, td {
+    border: 1px solid;
+    empty-cells: hide;
+    border-spacing: 15px 20px;
+    
+}
+
+table{
+
+    width: 100%;
+}
+
+.ex{
+
+    color:white;
+    background-color: black;
+}
+
+
+.ex2{
+background-image: url(../Image/Skyline.jpg);
+width: 100px;
+height: 100px;
+
+}

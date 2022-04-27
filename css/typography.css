@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+
+
+body{
+
+background-color: lightcoral;
+}
+
+*{
+
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+.font-size{
+    
+
+    font-size: 100%;
+    color: brown;
+
+
+    
+    }
+
+    .font-weight{
+
+    font-weight:bold;
+
+    }
+
+
+    .font-style{
+
+font-style: normal;
+
+    }
+    
+
+    .text-trasform{
+    
+         text-transform: lowercase;
+
+
+    }
+
+
+    .uppercase{
+
+        text-align: left;
+        
+        
+
+
+    }
+
+
+    .lowercase{
+     text-transform: lowercase;
+
+
+    }
+
+
+    .capitalize{
+
+        text-transform: capitalize;
+    }
+
+
+    .align{
+
+text-align: right;
+
+    }
+
+
+    .align-left{
+
+
+        text-align: center;
+    }
+
+    .text-decoration{
+
+        text-decoration: overline;
+
+
+    }
+
+    .example-1{
+      
+      color: blue;
+      text-decoration: underline;
+      background-color: aqua;
+
+    }
+
+
+    .example-2{
+      
+        color: black;
+        font-weight: bolder;
+        background-color: green;
+      }
+
+
+      .example-3{
+      
+        color: black;
+        font-weight: bolder;
+        background-color: white;
+        word-spacing: 10px;
+
+      }
